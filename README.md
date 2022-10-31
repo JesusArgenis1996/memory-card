@@ -9,7 +9,7 @@
     <br />
     <br />
     <br />
-    <a href="https://tic-tac-toe-sigma-two.vercel.app/">View Demo</a>
+    <a href="https://memory-card-psi.vercel.app/">View Demo</a>
   </p>
 </div>
 
@@ -65,7 +65,7 @@ Node.js
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-It is a simple game for two players.
+It is a memory card game 
 
 
 
@@ -74,7 +74,7 @@ It is a simple game for two players.
 
 Jesus Sanchez - argenis.sanchez@uabc.edu.mx
 
-Project Link: https://github.com/JesusArgenis1996/tic-tac-toe.git
+Project Link: https://github.com/JesusArgenis1996/memory-card.git
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
